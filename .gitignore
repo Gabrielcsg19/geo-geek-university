@@ -3,3 +3,4 @@ db.sqlite3
 *.iml
 *.xml
 *.pyc
+geoip
