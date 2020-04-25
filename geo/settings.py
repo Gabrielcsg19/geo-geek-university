@@ -123,7 +123,7 @@ MEDIA_URL = '/media/'
 STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
 MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
 
-YELP_API_KEY = '1zin8sI6l5I7iIygWYeOoaX7jpf5oe0TIMSZN6Pr6cEyzxu1_MeJopx7SGveAvZs14CTTp-ATn2kcSur_aZnRFtN_5tiPxzdmzPYwCu0pRpZAVbCTtKXBMGTCkGiXnYx'
+YELP_API_KEY = 'Chave do Yelp'
 
 GEOIP_PATH = os.path.join(BASE_DIR, 'geoip')
 
